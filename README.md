@@ -1,0 +1,1 @@
+# Abstraction-out-of-class-projects
